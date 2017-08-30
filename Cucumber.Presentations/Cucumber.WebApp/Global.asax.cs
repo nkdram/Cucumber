@@ -12,6 +12,7 @@ namespace Cucumber.WebApp
         protected void Application_Start()
         {
             //Inialize Controller Factory
+
             InitContainer();
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);

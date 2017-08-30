@@ -11,14 +11,14 @@
                 conversion.numberOnly('#Number');
 
                 //Checking for curreny details
-                if (currencyDetails.maindenomination) {
+                if (currencyDetails && currencyDetails.maindenomination) {
                     $('#MainCurrency').val(currencyDetails.maindenomination);
                 }
                 else {
                     $('#message-area').html("<div class='alert alert-danger'><strong>Error!</strong>Set Main currency details</div>");
                     $('#message-area').show();
                 }
-                if (currencyDetails.fracdenomination) {
+                if (currencyDetails && currencyDetails.fracdenomination) {
                     $('#FractionalCurrency').val(currencyDetails.fracdenomination);
                 }
                 else {

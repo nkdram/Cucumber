@@ -44,6 +44,5 @@ D:\cucumber git\cucumber test\Cucumber\Cucumber.Libraries\Cucumber.Core\bin\Debu
 D:\cucumber git\cucumber test\Cucumber\Cucumber.Libraries\Cucumber.Core\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\cucumber git\cucumber test\Cucumber\Cucumber.Libraries\Cucumber.Core\bin\Debug\System.Web.WebPages.Razor.xml
 D:\cucumber git\cucumber test\Cucumber\Cucumber.Libraries\Cucumber.Core\bin\Debug\Microsoft.Web.Infrastructure.xml
-D:\cucumber git\cucumber test\Cucumber\Cucumber.Libraries\Cucumber.Core\obj\Debug\Cucumber.Core.csprojResolveAssemblyReference.cache
 D:\cucumber git\cucumber test\Cucumber\Cucumber.Libraries\Cucumber.Core\obj\Debug\Cucumber.Core.dll
 D:\cucumber git\cucumber test\Cucumber\Cucumber.Libraries\Cucumber.Core\obj\Debug\Cucumber.Core.pdb
