@@ -24,3 +24,29 @@ D:\cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug
 D:\cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\obj\Debug\Cucumber.Repository.csprojResolveAssemblyReference.cache
 D:\cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\obj\Debug\Cucumber.Repository.dll
 D:\cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\obj\Debug\Cucumber.Repository.pdb
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\Cucumber.Repository.dll.config
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\Cucumber.Repository.dll
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\Cucumber.Repository.pdb
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\Cucumber.Core.dll
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\Cucumber.Data.dll
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\Newtonsoft.Json.dll
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\System.Web.Mvc.dll
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\Autofac.dll
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\Autofac.Integration.Mvc.dll
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\System.Web.WebPages.dll
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\Cucumber.Core.pdb
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\Cucumber.Data.pdb
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\Newtonsoft.Json.xml
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\System.Web.Mvc.xml
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\Autofac.xml
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\Autofac.Integration.Mvc.xml
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\System.Web.WebPages.xml
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\obj\Debug\Cucumber.Repository.csprojResolveAssemblyReference.cache
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\obj\Debug\Cucumber.Repository.dll
+D:\cucumber git\Cucumber\Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\obj\Debug\Cucumber.Repository.pdb
