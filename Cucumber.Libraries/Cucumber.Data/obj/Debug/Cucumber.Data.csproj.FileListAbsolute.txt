@@ -1,0 +1,9 @@
+D:\cucumber\Cucumber.Data\bin\Debug\Cucumber.Data.dll
+D:\cucumber\Cucumber.Data\bin\Debug\Cucumber.Data.pdb
+D:\cucumber\Cucumber.Data\obj\Debug\Cucumber.Data.csprojResolveAssemblyReference.cache
+D:\cucumber\Cucumber.Data\obj\Debug\Cucumber.Data.dll
+D:\cucumber\Cucumber.Data\obj\Debug\Cucumber.Data.pdb
+D:\cucumber\Cucumber.Libraries\Cucumber.Data\bin\Debug\Cucumber.Data.dll
+D:\cucumber\Cucumber.Libraries\Cucumber.Data\bin\Debug\Cucumber.Data.pdb
+D:\cucumber\Cucumber.Libraries\Cucumber.Data\obj\Debug\Cucumber.Data.dll
+D:\cucumber\Cucumber.Libraries\Cucumber.Data\obj\Debug\Cucumber.Data.pdb

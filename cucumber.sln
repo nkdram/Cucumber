@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cucumber.Libraries", "Cucumber.Libraries", "{DC81D1DB-1F33-4240-8414-600FCF758604}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cucumber.Presentations", "Cucumber.Presentations", "{E842B919-C6D5-4982-ADF4-99D8809F489C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cucumber.Core", "Cucumber.Libraries\Cucumber.Core\Cucumber.Core.csproj", "{D4FC969E-1A95-4202-ABEC-0B24C9ED3DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cucumber.Data", "Cucumber.Libraries\Cucumber.Data\Cucumber.Data.csproj", "{DA725D34-F955-45A6-80A4-C9BACD1304E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cucumber.Service", "Cucumber.Libraries\Cucumber.Service\Cucumber.Service.csproj", "{A616BC3D-D57D-46E1-8FCE-41C075B124EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cucumber.WebApp", "Cucumber.Presentations\Cucumber.WebApp\Cucumber.WebApp.csproj", "{993FB1DC-219F-4ACA-A209-382DD6090626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cucumber.Repository", "Cucumber.Libraries\Cucumber.Repository\Cucumber.Repository\Cucumber.Repository.csproj", "{6263335F-A961-43E6-A018-AC6E9C78DDB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4FC969E-1A95-4202-ABEC-0B24C9ED3DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FC969E-1A95-4202-ABEC-0B24C9ED3DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FC969E-1A95-4202-ABEC-0B24C9ED3DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FC969E-1A95-4202-ABEC-0B24C9ED3DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA725D34-F955-45A6-80A4-C9BACD1304E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA725D34-F955-45A6-80A4-C9BACD1304E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA725D34-F955-45A6-80A4-C9BACD1304E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA725D34-F955-45A6-80A4-C9BACD1304E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A616BC3D-D57D-46E1-8FCE-41C075B124EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A616BC3D-D57D-46E1-8FCE-41C075B124EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A616BC3D-D57D-46E1-8FCE-41C075B124EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A616BC3D-D57D-46E1-8FCE-41C075B124EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{993FB1DC-219F-4ACA-A209-382DD6090626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993FB1DC-219F-4ACA-A209-382DD6090626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993FB1DC-219F-4ACA-A209-382DD6090626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993FB1DC-219F-4ACA-A209-382DD6090626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6263335F-A961-43E6-A018-AC6E9C78DDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6263335F-A961-43E6-A018-AC6E9C78DDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6263335F-A961-43E6-A018-AC6E9C78DDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6263335F-A961-43E6-A018-AC6E9C78DDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D4FC969E-1A95-4202-ABEC-0B24C9ED3DDF} = {DC81D1DB-1F33-4240-8414-600FCF758604}
+		{DA725D34-F955-45A6-80A4-C9BACD1304E7} = {DC81D1DB-1F33-4240-8414-600FCF758604}
+		{A616BC3D-D57D-46E1-8FCE-41C075B124EB} = {DC81D1DB-1F33-4240-8414-600FCF758604}
+		{993FB1DC-219F-4ACA-A209-382DD6090626} = {E842B919-C6D5-4982-ADF4-99D8809F489C}
+		{6263335F-A961-43E6-A018-AC6E9C78DDB8} = {DC81D1DB-1F33-4240-8414-600FCF758604}
+	EndGlobalSection
+EndGlobal

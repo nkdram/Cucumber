@@ -1,0 +1,23 @@
+﻿{
+  "HeaderText": "Cucumber App",
+  "MobileMenu": "View Menu",
+  "MenuLinks": [
+    {
+      "MenuText": "Home",
+      "MenuUrl": "/"
+    },
+    {
+      "MenuText": "Server Side Approach",
+      "MenuUrl": "/Page/ServerSide"
+    },
+    {
+      "MenuText": "Angular Approach",
+      "MenuUrl": "/Page/AngularApproach"
+    },
+    {
+      "MenuText": "Settings",
+      "MenuUrl": "/Page/Settings"
+    }
+  ]
+
+}

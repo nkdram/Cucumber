@@ -1,0 +1,19 @@
+﻿{
+  "HeaderText": "Cucumber App",
+  "MobileMenu": "View Menu",
+  "MenuLinks": [
+    {
+      "MenuText": "Home",
+      "MenuUrl": "/"
+    },
+    {
+      "MenuText": "Convert Number to Words",
+      "MenuUrl": "/Page/ConvertData"
+    },
+    {
+      "MenuText": "Settings",
+      "MenuUrl": "/Page/Settings"
+    }
+  ]
+
+}
