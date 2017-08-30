@@ -16,12 +16,14 @@
                 }
                 else {
                     $('#message-area').html("<div class='alert alert-danger'><strong>Error!</strong>Set Main currency details</div>");
+                    $('#message-area').show();
                 }
                 if (currencyDetails.fracdenomination) {
                     $('#FractionalCurrency').val(currencyDetails.fracdenomination);
                 }
                 else {
                     $('#message-area').html("<div class='alert alert-danger'><strong>Error!</strong>Set Fractional currency details</div>");
+                    $('#message-area').show();
                 }
             });
         },
