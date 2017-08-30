@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace Cucumber.Core.Infrastructure
 {
+    /// <summary>
+    /// App Context
+    /// </summary>
     public class CucumberContext
     {
         #region Methods

@@ -7,6 +7,9 @@ using Autofac.Integration.Mvc;
 
 namespace Cucumber.Core.Infrastructure
 {
+    /// <summary>
+    /// App Engine - It initiliazes Dependencies
+    /// </summary>
     public class CucumberAppEngine : ICucumberAppEngine
     {
         #region Fields

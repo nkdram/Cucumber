@@ -52,7 +52,10 @@ namespace Cucumber.WebApp.Controllers
             var mainCurrency = await Task.FromResult(Cucumber.Core.Helper.changeNumericToWords(wholeNumber[0]) + " " + form.MainCurrency);
             var fracCurrency = string.Empty;
             if (form.Number.Contains("."))
-                fracCurrency = await Task.FromResult(Cucumber.Core.Helper.changeNumericToWords(wholeNumber[1]) + " " + form.FractionalCurrency);
+            {
+                var decimalVal = wholeNumber[1].Substring(0, 2);
+                fracCurrency = await Task.FromResult(Cucumber.Core.Helper.changeNumericToWords(decimalVal) + " " + form.FractionalCurrency);
+            }
             return mainCurrency + " And " + fracCurrency;
         }
         #endregion

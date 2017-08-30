@@ -16,9 +16,6 @@ namespace Cucumber.WebApp
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             App_Start.BundleConfig.RegisterBundles(BundleTable.Bundles);
-
-            //Log app details
-            CucumberContext.Current.Logger.Info("Application Started !!");
         }
         /// <summary>
         /// Initialize Container

@@ -2,6 +2,9 @@
 
 namespace Cucumber.Core.Base
 {
+    /// <summary>
+    /// Custom Logger
+    /// </summary>
     public interface ILogger
     {
 

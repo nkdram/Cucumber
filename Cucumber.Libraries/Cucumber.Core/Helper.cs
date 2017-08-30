@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace Cucumber.Core
 {
+    /// <summary>
+    /// Custom Helper Class
+    /// </summary>
     public static class Helper
     {
         /// <summary>

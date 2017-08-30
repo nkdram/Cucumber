@@ -36,19 +36,19 @@
                         <div class="form-group row">
                             <label class="col-sm-6  col-md-4 control-label" for="name">@Html.LabelFor(model => model.FullName)  <span class="requerido"> *</span></label>
                             <div class="col-sm-4">
-                                @Html.TextBoxFor(model => model.FullName, htmlAttributes: new { Class = "form-control" })
+                                @Html.TextBoxFor(model => model.FullName, htmlAttributes: new { Class = "form-control", placeholder = "John Smith" })
                             </div>
                         </div>
                         <div class="form-group row">
                             <label class="col-sm-6  col-md-4 control-label" for="name">@Html.LabelFor(model => model.Number) <span class="requerido"> *</span></label>
                             <div class="col-sm-4">
-                                @Html.TextBoxFor(model => model.Number, htmlAttributes: new { Class = "form-control" })
+                                @Html.TextBoxFor(model => model.Number, htmlAttributes: new { Class = "form-control", placeholder = "123.45" })
                             </div>
 
                         </div>
                         <div id="message-area"></div>
                         <div class="form-group conversion-details">
-                            <div class="alert alert-info text-center" role="alert">                                
+                            <div class="alert alert-info text-center" role="alert">
                                 <div id="currency-info"></div>
                                 <span id="converted-value"></span>
                             </div>

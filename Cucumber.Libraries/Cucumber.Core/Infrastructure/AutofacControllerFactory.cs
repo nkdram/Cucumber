@@ -6,6 +6,9 @@ using System.Web.Routing;
 
 namespace Cucumber.Core.Infrastructure
 {
+    /// <summary>
+    /// Auto Fac Controller Factory
+    /// </summary>
     public class AutofacControllerFactory : DefaultControllerFactory
     {
         #region Fields
